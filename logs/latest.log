@@ -1,0 +1,403 @@
+[14:02:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:02:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:02:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:02:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:02:32] [main/INFO]: Loaded 0 recipes
+[14:02:32] [main/INFO]: Loaded 0 advancements
+[14:02:35] [Server thread/INFO]: Starting minecraft server version 1.13
+[14:02:35] [Server thread/INFO]: Loading properties
+[14:02:35] [Server console handler/ERROR]: Caught previously unhandled exception :
+[14:02:35] [Server console handler/ERROR]: java.lang.NullPointerException
+[14:02:35] [Server thread/INFO]: Default game type: SURVIVAL
+[14:02:35] [Server thread/INFO]: Generating keypair
+[14:02:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:02:35] [Server thread/INFO]: Using default channel type
+[14:02:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:02:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:02:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:02:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:02:35] [Server thread/INFO]: Preparing level "world"
+[14:02:35] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:02:36] [Server thread/INFO]: Loaded 524 recipes
+[14:02:36] [Server thread/INFO]: Loaded 571 advancements
+[14:02:36] [Server thread/INFO]: Preparing start region for level 0
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 4%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 8%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 12%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 16%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 20%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 24%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 28%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 32%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 36%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 40%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 44%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 48%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 52%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 56%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 60%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 64%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 68%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 72%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 76%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 80%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 84%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 88%
+[14:02:37] [Server thread/INFO]: Preparing spawn area: 92%
+[14:02:38] [Server thread/INFO]: Preparing spawn area: 96%
+[14:02:38] [Server thread/INFO]: Preparing spawn area: 100%
+[14:02:38] [Server thread/INFO]: Time elapsed: 1176 ms
+[14:02:38] [Server thread/INFO]: Done (2.237s)! For help, type "help"
+[14:02:45] [Server thread/INFO]: fuzz[/192.168.1.66:55040] logged in with entity id 345 at (-222.30112615944395, 71.0, 235.30000001192093)
+[14:02:45] [Server thread/INFO]: fuzz joined the game
+[14:03:06] [Server thread/INFO]: danilsolo[/192.168.1.67:51796] logged in with entity id 2025 at (-208.93192932178474, 68.0, 254.45305942589658)
+[14:03:06] [Server thread/INFO]: danilsolo joined the game
+[14:38:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[14:46:10] [Server thread/INFO]: danilsolo was shot by Skeleton
+[15:29:14] [Server thread/INFO]: danilsolo has made the advancement [We Need to Go Deeper]
+[15:37:55] [Server thread/INFO]: danilsolo has completed the challenge [Return to Sender]
+[15:42:54] [Server thread/INFO]: fuzz has completed the challenge [Return to Sender]
+[15:46:20] [Server thread/INFO]: fuzz fell from a high place
+[16:04:14] [Server thread/INFO]: fuzz fell from a high place
+[16:04:16] [Server thread/WARN]: fuzz moved too quickly! 19.19999998807907,-1.9000015258789062,28.8293288165236
+[16:16:46] [Server thread/INFO]: fuzz was shot by Skeleton
+[16:16:47] [Server thread/WARN]: fuzz moved too quickly! 21.80000001192093,3.0999984741210938,31.19999998807907
+[16:35:53] [Server thread/INFO]: danilsolo has made the advancement [The Parrots and the Bats]
+[16:47:00] [Server thread/INFO]: fuzz fell from a high place
+[16:48:54] [Server thread/INFO]: boshlin[/192.168.1.75:64323] logged in with entity id 316119 at (-217.901758435228, 63.0, 238.04653363678455)
+[16:48:54] [Server thread/INFO]: boshlin joined the game
+[16:49:40] [Server thread/INFO]: fuzz fell from a high place
+[16:50:34] [Server thread/INFO]: boshlin fell from a high place
+[17:13:36] [Server thread/INFO]: boshlin suffocated in a wall
+[17:25:05] [Server thread/INFO]: <fuzz> 6
+[17:29:10] [Server thread/INFO]: danilsolo lost connection: Disconnected
+[17:29:10] [Server thread/INFO]: danilsolo left the game
+[17:29:10] [Server thread/WARN]: handleDisconnection() called twice
+[17:29:12] [Server thread/INFO]: boshlin lost connection: Timed out
+[17:29:12] [Server thread/INFO]: boshlin left the game
+[17:29:39] [Server thread/INFO]: danilsolo[/192.168.1.67:52220] logged in with entity id 371131 at (-227.69999998807907, 67.02442408821369, 383.69999998807907)
+[17:29:39] [Server thread/INFO]: danilsolo joined the game
+[17:29:47] [Server thread/INFO]: boshlin[/192.168.1.75:49197] logged in with entity id 371692 at (-208.83167993752897, 63.0, 358.04949980405917)
+[17:29:47] [Server thread/INFO]: boshlin joined the game
+[17:45:11] [Server thread/INFO]: danilsolo lost connection: Timed out
+[17:45:11] [Server thread/INFO]: danilsolo left the game
+[17:45:18] [Server thread/INFO]: boshlin lost connection: Timed out
+[17:45:18] [Server thread/INFO]: boshlin left the game
+[17:46:04] [Server thread/INFO]: boshlin[/192.168.1.75:49708] logged in with entity id 405447 at (-206.33413239836227, 61.0, 262.64540349306236)
+[17:46:04] [Server thread/INFO]: boshlin joined the game
+[17:46:10] [Server thread/INFO]: danilsolo[/192.168.1.67:52239] logged in with entity id 406449 at (-206.15019081777476, 61.0, 260.32259680796426)
+[17:46:10] [Server thread/INFO]: danilsolo joined the game
+[17:51:34] [Server thread/INFO]: fuzz fell from a high place
+[17:51:36] [Server thread/WARN]: fuzz moved too quickly! -1056.2690004915999,-4.0,-142.42775605305286
+[18:00:14] [Server thread/INFO]: danilsolo has made the advancement [Tactical Fishing]
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 8.938072599003037,0.0,5.155863704863549
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 9.206231175972187,0.0,5.430831023721481
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 9.459774710042096,0.0,5.716395435528057
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 9.69849557463175,0.0,6.011992042419621
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 9.922355176102357,0.0,6.317000830360314
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 10.131459331191934,0.0,6.630774174874574
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 10.326033893884583,0.0,6.952657960322227
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 10.50640119164157,0.0,7.28200730526504
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 10.672961455049716,0.0,7.618197448216534
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 10.826175298445706,0.0,7.960631413950495
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 10.967243582920746,0.0,8.308695701612749
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 11.097953943292584,0.0,8.661777482920854
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 11.22055438866653,0.0,9.01924222414317
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 11.337627439940873,0.0,9.380389804605727
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 11.451311400767784,0.0,9.744548146598163
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 11.563361048562578,0.0,10.11108816581023
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 11.675202794249385,0.0,10.47943278245296
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 11.787984463401017,0.0,10.849061246372685
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 11.90261635627824,0.0,11.219511047798903
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 12.01981163099386,0.0,11.59037590800196
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 12.140111572140047,0.0,11.96130589685987
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 12.263922385278661,0.0,12.332000456891762
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 12.391530206139503,0.0,12.702207913989184
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 12.523125023878713,0.0,13.071719702458608
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 12.658818404764093,0.0,13.440365752430381
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 12.798655771286555,0.0,13.808011348080612
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 12.942630737203528,0.0,14.174552113285472
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 13.090694397408747,0.0,14.539910761583627
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 13.242763575193472,0.0,14.904033858218128
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 13.398731500685125,0.0,15.266886823536936
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 13.55847056131972,0.0,15.628452814891745
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 13.721838085324755,0.0,15.98872976084428
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 13.888681470485256,0.0,16.347727531764576
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 14.058842727389898,0.0,16.705465255533795
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 14.232159200690003,0.0,17.06197071961836
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 14.408467507663943,0.0,17.41727785480765
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 14.5876070289083,0.0,17.771424377445726
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 14.769416435706903,0.0,18.124453549192367
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 14.953740429231756,0.0,18.476409822695274
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 15.140425918903258,0.0,18.827340823554977
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 15.329325137562773,0.0,19.177295136856742
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 15.52029842463877,0.0,19.526320281521635
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 15.713210178210659,0.0,19.874464880733825
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 15.907928491984421,0.0,20.221778614844254
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 16.104331325477,0.0,20.56830811096674
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 16.302302276432403,0.0,20.914099300936783
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 16.501733282215806,0.0,21.259195479182637
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 16.702520554161907,0.0,21.603639626551683
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 16.904567404218945,0.0,21.947472418835815
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 17.107780301335193,0.0,22.290734517362637
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 17.31207504893989,0.0,22.633462487523644
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 17.51736937321506,0.0,22.975693317363266
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 17.72358921655063,0.0,23.317460273768802
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 17.930664676783504,0.0,23.65879533839714
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 18.13911489808861,0.0,23.999349121894085
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 18.349912049096567,0.0,24.338437904448313
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 18.564353464279023,0.0,24.675061791429613
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 18.78392770819106,0.0,25.007917499535807
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 19.01020052274828,0.0,25.335395216483334
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 19.244695795952122,0.0,25.65558675502183
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 19.48878573663535,0.0,25.966299779609045
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 19.743588695738147,0.0,26.265084215177865
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 20.009879729343183,0.0,26.54926564397033
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 20.287809232168506,0.0,26.816673334008925
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 20.577079267216867,0.0,27.065620951534783
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 20.87708274938533,0.0,27.2948745701936
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 21.1870136232849,0.0,27.50360588847994
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 21.505951200345443,0.0,27.691337516756505
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 21.832922759196457,0.0,27.857892910770317
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 22.166949186974552,0.0,28.003345759447882
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 22.507077734200553,0.0,28.127978518576526
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 22.8524037381137,0.0,28.23223909948379
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 23.202084395746677,0.0,28.31670448491161
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 23.555346998543545,0.0,28.382051122792404
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 23.911493519745612,0.0,28.429031713037602
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 24.26989806359314,0.0,28.458443350255834
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 24.630008876042506,0.0,28.47112096366064
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 24.99134067727308,0.0,28.467909865908496
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 25.35347389277142,0.0,28.449662952691966
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 25.716048667669583,0.0,28.41722764539
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 26.078758183248695,0.0,28.371434493356077
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 26.441344824812454,0.0,28.313094190538408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 26.803896059848835,0.0,28.2436210400256
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 27.16677142147763,0.0,28.16491009951085
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 27.5305080194127,0.0,28.079238933610213
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 27.89572136235357,0.0,27.989198654662005
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 28.262812373189668,0.0,27.896959018934467
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 28.632019629660206,0.0,27.80432089247296
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 29.003459373675742,0.0,27.7127596985045
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 29.377158345759316,0.0,27.623470813047618
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 29.75307833297782,0.0,27.537404766900693
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 30.1311361274883,0.0,27.455304009192332
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 30.51121847546929,0.0,27.377733152179303
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 30.89319357910656,0.0,27.305106850707432
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 31.276919533580788,0.0,27.237711531185766
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 31.662250877274992,0.0,27.175729095191258
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 32.049043119779505,0.0,27.119254647213637
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 32.43715593792784,0.0,27.06830492711461
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 32.82645555304003,0.0,27.022841339097596
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 33.2168160546029,0.0,26.982779240061944
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 33.608120356889145,0.0,26.947992507881878
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 34.000260389362076,0.0,26.91832918031713
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 34.393137282941126,0.0,26.893614044612974
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 34.7866611949141,0.0,26.873654810893555
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 35.180750946467185,0.0,26.858247670893178
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 35.57533351764809,0.0,26.847182300814467
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 35.97034343637063,0.0,26.840246360175257
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 36.36572239988231,0.0,26.837225714664612
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 36.76141858018247,0.0,26.837908458861335
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 37.15738623731731,0.0,26.842084710108594
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 37.55358533781776,0.0,26.84954642439834
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 37.94998045505961,0.0,26.860094864019743
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 38.346540420337675,0.0,26.873539675544066
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 38.74323799765661,0.0,26.889698061175068
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 39.14004998219812,0.0,26.908390216171767
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 39.536955687066715,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 39.93393754086351,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 40.3309804259592,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 40.72807147036996,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 41.125199428312094,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 41.522354968342064,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 41.91953007214053,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 42.316717914375765,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 42.71391320534083,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 43.1110229955024,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 43.507849826389354,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 43.864993964726516,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 44.18642368071499,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 44.47571041744113,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 44.73606847359752,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 44.970390717930854,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 45.18128073224418,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 45.37108174009816,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 45.54190264264154,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 45.69564145085789,0.0,26.915931993245408
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 45.871327465285425,0.0,26.93032421645455
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 46.06661069468013,0.0,26.958065787813467
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 46.27938792634634,0.0,26.99817741075256
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 46.50777770927459,0.0,27.049740963737094
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 46.75009759309719,0.0,27.11189726637747
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 47.00484497680256,0.0,27.18384048054247
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 47.27067511910835,0.0,27.264823560847645
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 47.54638733061385,0.0,27.354149050557567
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 47.83090939141666,0.0,27.451167784680223
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 48.12328342265997,0.0,27.555277685498822
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 48.422654687118516,0.0,27.665919160014084
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 48.72826149482513,0.0,27.782570948328924
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 49.03942279145057,0.0,27.904753303196344
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 49.35553020649655,0.0,28.03202388718219
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 49.67604253579733,0.0,28.16397062304233
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 50.000477471438806,0.0,28.300212169475884
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 50.328705173317886,0.0,28.43976865044533
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 50.660856494797976,0.0,28.581171448043534
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 50.997220351189924,0.0,28.722546693021144
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 51.338135243232024,0.0,28.86168903814638
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 51.683885962058106,0.0,28.996118421557753
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 52.03460239077965,0.0,29.123148523411743
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 52.39017094793375,0.0,29.239943752381862
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 52.750155817910795,0.0,29.343594831479663
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 53.113736388090565,0.0,29.431197524325455
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 53.47966130602367,0.0,29.499934345217497
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 53.84622299690739,0.0,29.54716939334844
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 54.21125236111351,0.0,29.570541582354224
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 54.57253948226961,0.0,29.56862581695904
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 54.927981225743245,0.0,29.54076890669515
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 55.27566800102108,0.0,29.4869268799913
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 55.61393513192868,0.0,29.407526756906975
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 55.94138277996435,0.0,29.303345601665768
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 56.25746935814447,0.0,29.175778166402523
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 56.56243238155141,0.0,29.026611107138763
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 56.857166403105104,0.0,28.8578754544923
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 57.143099569626635,0.0,28.671769463353996
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 57.42147195094383,0.0,28.470250079324074
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 57.69336161191111,0.0,28.255059804010017
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 57.959707872335805,0.0,28.02775124259773
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 58.221903089495505,0.0,27.790090495028323
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 58.48167285416216,0.0,27.544042415182446
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 58.740944980819854,0.0,27.291764055257033
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 59.001226041580175,0.0,27.03514254616556
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 59.26367363175331,0.0,26.775809578285333
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 59.529156513828845,0.0,26.515157790616286
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 59.798309208993054,0.0,26.254363062873722
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 60.071578655900446,0.0,25.994408694817054
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 60.34925917580683,0.0,25.73610438485315
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 60.6315223970554,0.0,25.480105452820908
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 60.91844492285846,0.0,25.226935057880098
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 61.21002530674506,0.0,24.976996200137762
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 61.50620480664022,0.0,24.73059304233152
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 61.8068787656922,0.0,24.487941382164763
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 62.11191023758011,0.0,24.24918518339925
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 62.42113758522722,0.0,24.014405437494275
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 62.734380939663005,0.0,23.783628457594062
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 63.05145129497958,0.0,23.556840359700374
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 63.3721545326431,0.0,23.33399368822836
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 63.69629302426657,0.0,23.115010141729243
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 64.02367044549294,0.0,22.899789942042247
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 64.35409238319957,0.0,22.688213583360152
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 64.68737017886423,0.0,22.480150339153738
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 65.02332082249137,0.0,22.27545914210023
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 65.36176845902082,0.0,22.073992862890833
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 65.70254563606204,0.0,21.875602220761976
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 66.04549271322139,0.0,21.68013587756886
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 66.39015906885422,0.0,21.486809506703963
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 66.73583960407413,0.0,21.294346589172477
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 67.08192624279116,0.0,21.101718430186537
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 67.427901168684,0.0,20.908105624829602
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 67.77332877524694,0.0,20.712863988102725
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 68.11784885296609,0.0,20.515497721565566
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 68.4611671757975,0.0,20.315632523362837
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 68.8030480236499,0.0,20.11299509950055
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 69.14330890920814,0.0,19.90739823135604
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 69.48181306790894,0.0,19.698724479139543
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 69.81846210659796,0.0,19.48691185028619
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 70.15319125741715,0.0,19.271944233281346
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 70.48596481945629,0.0,19.053842963192267
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 70.81676942618412,0.0,18.832656377074358
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 71.14561251981539,0.0,18.60845659036852
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 71.47251845808168,0.0,18.381333680619008
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 71.79752732000588,0.0,18.15139350010722
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 72.12068637493019,0.0,17.9187469397514
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 72.44205457330264,0.0,17.683515074645584
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 72.76169421110762,0.0,17.44581914906567
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 73.07967325516941,0.0,17.20578333675519
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 73.39606495488209,0.0,16.963534295241544
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 73.71094242450883,0.0,16.71919500914717
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 74.02437874423939,0.0,16.472885084836946
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 74.33598294702566,0.0,16.224204863591495
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 74.6449593668379,0.0,15.972358976147234
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 74.95066139210812,0.0,15.71676749622651
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 75.25257021052326,0.0,15.45701998626933
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 75.55028705078786,0.0,15.19284893358315
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 75.84351592027218,0.0,14.924099291955542
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 76.13204929451646,0.0,14.650704924781763
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 76.41575704827616,0.0,14.372670816245858
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 76.69457563478349,0.0,14.090057819480876
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 76.96849762810206,0.0,13.802969648894361
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 77.23755855801625,0.0,13.511539619815522
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 77.50183405614561,0.0,13.215925795954888
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 77.76142744895591,0.0,12.91630052381791
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 78.01587832348892,0.0,12.612481385327925
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 78.26424196831567,0.0,12.304040267402598
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 78.50515864266913,0.0,11.9904209333327
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 78.73690751999476,0.0,11.671051848016504
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 78.95746665050311,0.0,11.345457443675656
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.16524576383338,0.0,11.013512880896116
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.35904764781736,0.0,10.675345139208673
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.4473396527456,0.0,10.331253356543243
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.4473396527456,0.0,9.981649364867508
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.4473396527456,0.0,9.627011283842393
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.4463465023428,0.0,9.267849350979986
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.44296538892624,0.0,8.90468102866808
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.43679243411191,0.0,8.537952192147259
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.42822153077935,0.0,8.168010056534683
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.41829607925814,0.0,7.7951233320906965
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.40856939024795,0.0,7.41953316886449
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.40100019720384,0.0,7.041519585377614
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.39784518758111,0.0,6.661474915077207
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.40156437620092,0.0,6.279976092123945
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.41473497841073,0.0,5.897852141213974
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.4399485063312,0.0,5.516237669002294
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.47972208123804,0.0,5.136615250808859
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.536400580112,0.0,4.760838662590828
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.6120597749198,0.0,4.3911365826009785
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.70791742842113,0.0,4.029609942776233
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.8245052033325,0.0,3.678141019229912
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 79.96182325763587,0.0,3.338346694755927
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 80.11947175468364,0.0,3.0115612856106395
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 8.969511257777011,0.0,4.55910319205978
+[18:01:11] [Server thread/WARN]: Boat (vehicle of danilsolo) moved too quickly! 8.8124868859423,0.0,4.804305204595181
+[18:10:51] [Server thread/INFO]: fuzz drowned
+[18:11:14] [Server thread/WARN]: fuzz moved too quickly! -837.6456208114226,5.0,178.9820995723279
+[18:12:16] [Server thread/INFO]: fuzz lost connection: Disconnected
+[18:12:16] [Server thread/INFO]: fuzz left the game
+[18:12:50] [Server thread/INFO]: fuzz[/192.168.1.66:63835] logged in with entity id 460860 at (-240.20414555376524, 74.0, 271.4214582129642)
+[18:12:50] [Server thread/INFO]: fuzz joined the game
+[18:28:00] [Server thread/INFO]: danilsolo was shot by Skeleton
+[18:29:49] [Server thread/WARN]: fuzz was kicked for floating too long!
+[18:29:49] [Server thread/INFO]: fuzz lost connection: Flying is not enabled on this server
+[18:29:49] [Server thread/INFO]: fuzz left the game
+[18:29:57] [Server thread/INFO]: fuzz[/192.168.1.66:50354] logged in with entity id 479270 at (-208.5, 65.0999984741211, 260.5)
+[18:29:57] [Server thread/INFO]: fuzz joined the game
+[18:30:23] [Server thread/INFO]: danilsolo suffocated in a wall
+[18:33:34] [Server thread/INFO]: <fuzz> 5
+[18:39:03] [Server thread/INFO]: danilsolo was slain by Zombie
+[19:12:23] [Server thread/INFO]: boshlin has made the advancement [Tactical Fishing]
+[19:17:41] [Server thread/INFO]: danilsolo drowned
+[19:17:45] [Server thread/INFO]: fuzz drowned
+[19:17:46] [Server thread/WARN]: fuzz moved too quickly! -7.264973885302766,8.338971674263185,25.919193801150982
+[19:18:20] [Server thread/INFO]: danilsolo drowned
+[19:19:05] [Server thread/INFO]: danilsolo drowned
+[19:32:33] [Server thread/INFO]: boshlin tried to swim in lava
+[19:49:56] [Server thread/INFO]: <boshlin> купель
+[20:21:42] [Server thread/INFO]: danilsolo has made the advancement [Hot Stuff]
+[20:28:11] [Server thread/INFO]: danilsolo lost connection: Disconnected
+[20:28:11] [Server thread/INFO]: danilsolo left the game
+[20:28:16] [Server thread/INFO]: danilsolo[/192.168.1.67:52455] logged in with entity id 605867 at (-207.69999998807904, 13.0, 361.72046819622943)
+[20:28:16] [Server thread/INFO]: danilsolo joined the game
+[20:44:07] [Server thread/INFO]: <boshlin> уй
+[20:58:55] [Server thread/WARN]: fuzz moved wrongly!
+[21:17:03] [Server thread/INFO]: boshlin lost connection: Disconnected
+[21:17:03] [Server thread/INFO]: boshlin left the game
+[21:17:07] [Server thread/INFO]: danilsolo lost connection: Disconnected
+[21:17:07] [Server thread/INFO]: danilsolo left the game
+[21:21:32] [Server thread/INFO]: fuzz lost connection: Disconnected
+[21:21:32] [Server thread/INFO]: fuzz left the game
+[21:21:40] [Server Shutdown Thread/INFO]: Stopping server
+[21:21:40] [Server Shutdown Thread/INFO]: Saving players
+[21:21:40] [Server Shutdown Thread/INFO]: Saving worlds
+[21:21:40] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[21:21:40] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[21:21:40] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
